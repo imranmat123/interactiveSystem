@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="coursework8012" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="CSC8012.Main" />
+    <module name="coursework8012" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
